@@ -1,5 +1,7 @@
 # HelloText-Android
 
+*Version warning:* this sample is not recommended for new development because it's based on Cast SDK v2. Use the [Cast SDK v3 sample][1] instead.
+
 This Google Cast demo application shows how to send messages from an Android device to a receiver using a custom namespace. 
 
 ## Dependencies
@@ -31,3 +33,5 @@ Your use of this sample is subject to, and by using or downloading the sample fi
 
 ## Google+
 Google Cast Developers Community on Google+ [http://goo.gl/TPLDxj](http://goo.gl/TPLDxj)
+
+[1]:https://github.com/googlecast/CastHelloText-android
